@@ -1,5 +1,5 @@
-# IGNIS
-
+# IGNIS - Dashboard
+[![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 **De datos de combustión a decisiones de seguridad.**
 
 Panel bilingüe (ES/EN) que resume, clasifica e interpreta la investigación de combustión en microgravedad de NASA PSI para apoyar la seguridad contra incendios en la exploración espacial. Construido para **NASA Space Apps Challenge 2026**.
