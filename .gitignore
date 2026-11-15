@@ -1,0 +1,57 @@
+﻿# Dependencies
+node_modules/
+frontend/node_modules/
+backend/.venv/
+.venv/
+
+# Build outputs
+frontend/.next/
+frontend/out/
+.next/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.prod
+.env.neon
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Neon CLI
+.neon
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Docker volumes (local)
+ignis_pgdata/
+ignis_pgdata_prod/
+
+# Temp
+*.tmp
+*.temp
+
+# Local tooling
+.opencode/
+
+# Duplicate assets (already in frontend/public)
+ummia/

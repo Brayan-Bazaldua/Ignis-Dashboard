@@ -1,0 +1,10 @@
+# Reemplaza los dominios por los tuyos o define DOMAIN/API_DOMAIN en el entorno.
+{$DOMAIN:ignis.tudominio.com} {
+    encode gzip
+    reverse_proxy localhost:3000
+}
+
+{$API_DOMAIN:api.tudominio.com} {
+    encode gzip
+    reverse_proxy localhost:8000
+}
