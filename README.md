@@ -12,11 +12,22 @@ Panel bilingüe (ES/EN) que resume, clasifica e interpreta la investigación de 
 
 | Nombre | Rol |
 |---|---|
-| Arrambide Escamilla, Vanessa Nohely | — |
-| Bazaldua Contreras, Brayan Alberto | — |
-| Caballero Rivera, Jonathan David | — |
-| Morales Ortiz, Mariana Elizabeth | — |
-| Vera Reyes, Diego Alejandro | — |
+| Arrambide Escamilla, Vanessa Nohely | Documentadora |
+| Bazaldua Contreras, Brayan Alberto | Desarrollador / Programador (Backend y Frontend) |
+| Caballero Rivera, Jonathan David | Documentador |
+| Morales Ortiz, Mariana Elizabeth | Documentadora |
+| Vera Reyes, Diego Alejandro | Desarrollador / Programador (Backend y Frontend) |
+
+---
+
+## Demo en vivo
+
+| Servicio | URL |
+|---|---|
+| **Frontend (Vercel)** | https://frontend-green-psi-80.vercel.app |
+| **API (Railway)** | https://spaceapps-combustion-production.up.railway.app |
+| **Docs API** | https://spaceapps-combustion-production.up.railway.app/docs |
+| **Base de datos** | Neon PostgreSQL (pgvector) |
 
 ---
 
