@@ -1,0 +1,487 @@
+{
+  "_meta": {
+    "description": "Curated EN/ES findings and limitations for the 24 NASA PSI combustion-science investigations. Grounded in the public objectives, approaches, and impact statements; no experimental values are invented.",
+    "source": "NASA PSI public records",
+    "reviewed": "2026-11-12"
+  },
+  "PSI-10": {
+    "key_findings": [
+      "The experiment targeted soot-inception and extinction limits of normal and inverse spherical diffusion flames with ethylene and methane, varying flow rate, stoichiometric mixture fraction, inert dilution, and pressure.",
+      "Its diagnostics combined cameras, radiometers, photomultiplier tubes, and thermocouples to relate flame temperature, size, color, and soot volume fraction to operating conditions.",
+      "The public impact statement links the results to higher-efficiency, lower-emission terrestrial combustors, including future coal power plant designs."
+    ],
+    "key_findings_es": [
+      "El experimento apuntó a los límites de inicio de hollín y de extinción de llamas de difusión esféricas normales e inversas con etileno y metano, variando caudal, fracción de mezcla estequiométrica, dilución inerte y presión.",
+      "Su diagnóstico combinó cámaras, radiómetros, tubos fotomultiplicadores y termopares para relacionar temperatura, tamaño, color y fracción volumétrica de hollín con las condiciones de operación.",
+      "El impacto declarado vincula los resultados con combustores terrestres de mayor eficiencia y menores emisiones, incluido el diseño de futuras centrales de carbón."
+    ],
+    "limitations": [
+      "The public record contains objectives and impacts, not result tables; quantitative soot and extinction values must be taken from the associated publications.",
+      "Microgravity spherical flames are an idealized geometry, so transfer to practical turbulent combustors requires additional scaling and validation."
+    ],
+    "limitations_es": [
+      "El registro público contiene objetivos e impactos, no tablas de resultados; los valores cuantitativos de hollín y extinción deben tomarse de las publicaciones asociadas.",
+      "Las llamas esféricas en microgravedad son una geometría idealizada; su traslado a combustores turbulentos prácticos requiere escalamiento y validación adicionales."
+    ]
+  },
+  "PSI-100": {
+    "key_findings": [
+      "Saffire-III burned a large SIBAL fabric sample in microgravity at 30 cm/s, with concurrent and opposed flow, extending the Saffire-I test matrix to a higher forced-flow speed.",
+      "The instrument suite measured flame growth and spread with cameras, thermocouples, radiometers, pressure, CO2/O2 concentration, and flow velocity, providing thermal and species context for the burn.",
+      "The investigation was designed to compare low-gravity flammability limits with NASA's normal-gravity screening test and to validate material-selection criteria for crewed spacecraft."
+    ],
+    "key_findings_es": [
+      "Saffire-III quemó una muestra grande de tela SIBAL en microgravedad a 30 cm/s, con flujo concurrente y opuesto, ampliando la matriz de Saffire-I a una velocidad de flujo forzado mayor.",
+      "El conjunto de instrumentos midió el crecimiento y la propagación de la llama con cámaras, termopares, radiómetros, presión, concentración de CO2/O2 y velocidad del flujo, aportando contexto térmico y de especies.",
+      "La investigación se diseñó para comparar los límites de inflamabilidad en baja gravedad con el ensayo de cribado de la NASA en gravedad normal y validar los criterios de selección de materiales para naves tripuladas."
+    ],
+    "limitations": [
+      "The test used a single sample material on an uncrewed Cygnus vehicle, so the results do not represent the full range of spacecraft materials or habitat geometries.",
+      "PSI exposes the experiment metadata but no linked result table; quantitative growth and flammability-limit values must be sourced from mission publications."
+    ],
+    "limitations_es": [
+      "El ensayo utilizó un solo material de muestra en una nave Cygnus no tripulada, por lo que los resultados no representan todo el rango de materiales ni las geometrías de hábitat.",
+      "PSI expone los metadatos del experimento pero no una tabla de resultados enlazada; los valores cuantitativos de crecimiento y límites de inflamabilidad deben obtenerse de las publicaciones de la misión."
+    ]
+  },
+  "PSI-101": {
+    "key_findings": [
+      "SAME-R completed 66 test points on orbit with a revised test matrix that added Pyrell foam, higher heating temperatures, no-flow heating, and the M-pass instrument.",
+      "The experiment quantified low-gravity smoke particle sizes and linked the droplet size distribution to smoke generation and transport conditions.",
+      "Post-flight ground tests validated the lognormal-distribution assumption used by the moment method and supported a reduced-gravity baseline for advanced spacecraft smoke detectors."
+    ],
+    "key_findings_es": [
+      "SAME-R completó 66 puntos de ensayo en órbita con una matriz revisada que añadió espuma Pyrell, mayores temperaturas de calentamiento, calentamiento sin flujo y el instrumento M-pass.",
+      "El experimento cuantificó los tamaños de partículas de humo en baja gravedad y relacionó la distribución de tamaños de gota con las condiciones de generación y transporte del humo.",
+      "Ensayos de posvuelo en tierra validaron el supuesto de distribución lognormal usado por el método de momentos y respaldaron una línea base de baja gravedad para detectores de humo avanzados."
+    ],
+    "limitations": [
+      "The original SAME sampling was compromised by contaminated TEM grids; SAME-R mitigated but did not eliminate the sensitivity of particle analysis to sample handling.",
+      "Results are tied to the tested materials and chamber conditions, and the public record does not include the measured size distributions."
+    ],
+    "limitations_es": [
+      "El muestreo original de SAME se vio comprometido por rejillas TEM contaminadas; SAME-R mitigó, pero no eliminó, la sensibilidad del análisis de partículas al manejo de muestras.",
+      "Los resultados están ligados a los materiales y condiciones de cámara ensayados, y el registro público no incluye las distribuciones de tamaño medidas."
+    ]
+  },
+  "PSI-102": {
+    "key_findings": [
+      "SAME quantified low-gravity smoke particulate sizes from overheated spacecraft materials and related the droplet size distribution to smoke generation and transport.",
+      "Thermophoretic samplers and transmission electron microscopy provided primary and aggregate particle dimensions, while mass-loss measurements allowed matched 1-g test conditions.",
+      "Detector-response data established a reduced-gravity baseline for evaluating smoke-detection technologies for long-duration spacecraft."
+    ],
+    "key_findings_es": [
+      "SAME cuantificó los tamaños de partículas de humo en baja gravedad a partir de materiales de nave sobrecalentados y relacionó la distribución de tamaños de gota con la generación y el transporte del humo.",
+      "Los muestreadores termoforéticos y la microscopía electrónica de transmisión aportaron dimensiones de partículas primarias y agregados, mientras que las mediciones de pérdida de masa permitieron condiciones equivalentes en 1 g.",
+      "Los datos de respuesta de detectores establecieron una línea base de baja gravedad para evaluar tecnologías de detección de humo en naves de larga duración."
+    ],
+    "limitations": [
+      "TEM grids from the original SAME flight were severely contaminated by foreign particles, limiting part of the particle analysis.",
+      "The public metadata does not expose the measured distributions or detector curves; those remain in the mission data archive and publications."
+    ],
+    "limitations_es": [
+      "Las rejillas TEM del vuelo original de SAME estaban gravemente contaminadas por partículas extrañas, lo que limitó parte del análisis de partículas.",
+      "Los metadatos públicos no exponen las distribuciones medidas ni las curvas de los detectores; estos datos permanecen en el archivo de la misión y en las publicaciones."
+    ]
+  },
+  "PSI-106": {
+    "key_findings": [
+      "SLICE captured more than 4,000 high-resolution images across 13 tests of laminar diffusion flames in microgravity, using methane, ethylene, and nitrogen-diluted mixtures.",
+      "The experiment resolved flame structure and base stabilization, and mapped liftoff velocity limits as functions of fuel and burner diameter.",
+      "Its measurements of flame length, soot formation, and radiative heat loss provide validation targets for non-premixed flame models without buoyancy."
+    ],
+    "key_findings_es": [
+      "SLICE capturó más de 4.000 imágenes de alta resolución en 13 ensayos de llamas laminares de difusión en microgravedad, con metano, etileno y mezclas diluidas con nitrógeno.",
+      "El experimento resolvió la estructura de la llama y la estabilización en la base, y mapeó los límites de velocidad de desprendimiento en función del combustible y del diámetro del quemador.",
+      "Sus mediciones de longitud de llama, formación de hollín y pérdida de calor por radiación proporcionan objetivos de validación para modelos de llamas no premezcladas sin flotabilidad."
+    ],
+    "limitations": [
+      "The test matrix used a limited set of gaseous fuels and burner diameters, so the liftoff correlations do not cover all practical fuel blends.",
+      "The public record summarizes objectives and impacts but does not include the extracted liftoff or radiation values."
+    ],
+    "limitations_es": [
+      "La matriz de ensayos utilizó un conjunto limitado de combustibles gaseosos y diámetros de quemador, por lo que las correlaciones de desprendimiento no cubren todas las mezclas prácticas.",
+      "El registro público resume objetivos e impactos, pero no incluye los valores extraídos de desprendimiento ni de radiación."
+    ]
+  },
+  "PSI-107": {
+    "key_findings": [
+      "SPICE studied 526 non-buoyant jet diffusion flames across three burner diameters (0.41, 0.76, and 1.6 mm) and coflow velocities from 5.4 to 65 cm/s.",
+      "It identified smoke-point properties and luminous flame lengths for methane, ethylene, propane, propylene, and propylene mixtures, linking soot propensity to fuel and flow conditions.",
+      "The dataset supports correlations between luminous flame shape and residence time and provides validation data for soot-formation models under microgravity."
+    ],
+    "key_findings_es": [
+      "SPICE estudió 526 llamas de difusión tipo chorro sin flotabilidad con tres diámetros de quemador (0,41, 0,76 y 1,6 mm) y velocidades de coflujo de 5,4 a 65 cm/s.",
+      "Identificó las propiedades del punto de humo y las longitudes de llama luminosa para metano, etileno, propano, propileno y mezclas de propileno, relacionando la propensión al hollín con el combustible y el flujo.",
+      "El conjunto de datos respalda correlaciones entre la forma de la llama luminosa y el tiempo de residencia, y aporta datos de validación para modelos de formación de hollín en microgravedad."
+    ],
+    "limitations": [
+      "The smoke point is an optical threshold and does not by itself resolve the full soot volume fraction or aggregate structure.",
+      "Only gaseous fuels were tested, and the public metadata does not include the 526-flame data table."
+    ],
+    "limitations_es": [
+      "El punto de humo es un umbral óptico y por sí solo no resuelve la fracción volumétrica de hollín ni la estructura de los agregados.",
+      "Solo se ensayaron combustibles gaseosos, y los metadatos públicos no incluyen la tabla de datos de las 526 llamas."
+    ]
+  },
+  "PSI-115": {
+    "key_findings": [
+      "The study simulated dibutyl-phthalate smoke growth in Earth gravity and microgravity using a Navier-Stokes nodal approach and a geometry representative of the SAME experiment.",
+      "It isolated the roles of thermophoresis, particle settling, and wake geometry, and showed how buoyancy changes particle accumulation downstream of the hot vapor source.",
+      "The resulting models and tools connect temperature, gravity, and material properties to smoke characteristics, with direct application to smoke-detection design."
+    ],
+    "key_findings_es": [
+      "El estudio simuló el crecimiento de humo de dibutilftalato en gravedad terrestre y microgravedad mediante un enfoque nodal de Navier-Stokes y una geometría representativa del experimento SAME.",
+      "Aisló el papel de la termoforesis, la sedimentación de partículas y la geometría de la estela, y mostró cómo la flotabilidad modifica la acumulación de partículas aguas abajo de la fuente de vapor caliente.",
+      "Los modelos y herramientas resultantes conectan temperatura, gravedad y propiedades del material con las características del humo, con aplicación directa al diseño de detectores."
+    ],
+    "limitations": [
+      "This is a ground-based numerical study using a single surrogate fuel and simplified geometry; experimental validation across materials is still required.",
+      "The public record does not provide the simulated particle-size distributions or a reusable dataset."
+    ],
+    "limitations_es": [
+      "Se trata de un estudio numérico en tierra con un único combustible sustituto y geometría simplificada; aún se requiere validación experimental con distintos materiales.",
+      "El registro público no proporciona las distribuciones simuladas de tamaño de partícula ni un conjunto de datos reutilizable."
+    ]
+  },
+  "PSI-117": {
+    "key_findings": [
+      "The study built a three-dimensional OpenFOAM model of n-alkane droplet cool flames in microgravity, coupling variable-density flow, low-temperature chemistry, heat and mass transfer, and radiation.",
+      "After anchoring the model to FLEX measurements, it mapped stability windows for ignition, sustained oscillation, hot ignition, warm-flame behavior, and extinction under convection, heating, and combined forcing.",
+      "The extracted observables—ignition delay, oscillation frequency and amplitude, stand-off and extinction diameters—provide a basis for safer spacecraft fire-safety envelopes and next-generation test matrices."
+    ],
+    "key_findings_es": [
+      "El estudio construyó un modelo tridimensional en OpenFOAM de llamas frías de gotas de n-alcano en microgravedad, acoplando flujo de densidad variable, química de baja temperatura, transferencia de calor y masa, y radiación.",
+      "Tras anclar el modelo a las mediciones de FLEX, mapeó ventanas de estabilidad para ignición, oscilación sostenida, ignición caliente, comportamiento de llama tibia y extinción bajo convección, calentamiento y forzamiento combinado.",
+      "Los observables extraídos —retardo de ignición, frecuencia y amplitud de oscilación, diámetros de separación y extinción— sirven de base para envolventes de seguridad contra incendios y nuevas matrices de ensayo."
+    ],
+    "limitations": [
+      "The conclusions depend on reduced chemical mechanisms and on the fidelity of the FLEX dataset; model uncertainty is not fully characterized in the public summary.",
+      "The work is a ground-based CFD analysis, not a new microgravity experiment, so its stability maps still require flight validation."
+    ],
+    "limitations_es": [
+      "Las conclusiones dependen de mecanismos químicos reducidos y de la fidelidad del conjunto de datos FLEX; la incertidumbre del modelo no se caracteriza por completo en el resumen público.",
+      "El trabajo es un análisis CFD en tierra, no un nuevo experimento en microgravedad, por lo que sus mapas de estabilidad aún requieren validación en vuelo."
+    ]
+  },
+  "PSI-142": {
+    "key_findings": [
+      "The investigation combined FLEX data with ozone-sensitized counterflow simulations and ground experiments to build a flammability-limit diagram for cool flames affected by radiation, diffusion, and convection.",
+      "It identified a double reaction zone in warm flames and showed that the flammable region of cool and warm flames expands with pressure, up to the 20 atm cases studied.",
+      "The results bridge cool-flame and hot-flame extinction limits and provide quantitative targets for kinetic and radiation model validation."
+    ],
+    "key_findings_es": [
+      "La investigación combinó datos de FLEX con simulaciones y experimentos en tierra de llamas contracorriente sensibilizadas con ozono para construir un diagrama de límites de inflamabilidad de llamas frías afectadas por radiación, difusión y convección.",
+      "Identificó una doble zona de reacción en llamas tibias y mostró que la región inflamable de llamas frías y tibias se amplía con la presión, hasta los casos de 20 atm estudiados.",
+      "Los resultados conectan los límites de extinción de llamas frías y calientes y aportan objetivos cuantitativos para validar modelos cinéticos y de radiación."
+    ],
+    "limitations": [
+      "Ozone sensitization and one-dimensional counterflow geometry are controlled idealizations; direct transfer to microgravity droplet or spacecraft fires needs additional study.",
+      "The public metadata summarizes the findings without the full extinction-limit tables, which are distributed across the cited publications."
+    ],
+    "limitations_es": [
+      "La sensibilización con ozono y la geometría contracorriente unidimensional son idealizaciones controladas; su traslado directo a gotas en microgravedad o incendios en naves requiere estudios adicionales.",
+      "Los metadatos públicos resumen los hallazgos sin las tablas completas de límites de extinción, que se distribuyen en las publicaciones citadas."
+    ]
+  },
+  "PSI-159": {
+    "key_findings": [
+      "CFI-G conducted spherical diffusion-flame tests on the ISS with propane, n-butane, and n-pentane, in normal and inverse convection and over a broad range of stoichiometric mixture fraction, adiabatic temperature, and flow rate.",
+      "The campaign was paired with CFD simulations to identify a chemical-kinetics mechanism that reproduces the measured cool diffusion flames, whose peak temperatures lie between roughly 500 and 1000 K.",
+      "The results target ultra-lean combustion and higher-efficiency engines by improving the low-temperature chemistry needed to predict cool-flame onset and stability."
+    ],
+    "key_findings_es": [
+      "CFI-G realizó ensayos de llamas de difusión esféricas en la ISS con propano, n-butano y n-pentano, en convección normal e inversa y en un amplio rango de fracción de mezcla estequiométrica, temperatura adiabática y caudal.",
+      "La campaña se combinó con simulaciones CFD para identificar un mecanismo de cinética química que reproduzca las llamas frías de difusión medidas, cuyas temperaturas máximas se sitúan aproximadamente entre 500 y 1000 K.",
+      "Los resultados apuntan a la combustión ultra-pobre y a motores más eficientes al mejorar la química de baja temperatura necesaria para predecir el inicio y la estabilidad de las llamas frías."
+    ],
+    "limitations": [
+      "Cool diffusion flames are a gaseous, laboratory-scale phenomenon; the results inform but do not directly certify spacecraft material flammability.",
+      "The public record does not report the final measured cool-flame limits or the validated mechanism; those require the project publications."
+    ],
+    "limitations_es": [
+      "Las llamas frías de difusión son un fenómeno gaseoso y de laboratorio; los resultados informan, pero no certifican directamente la inflamabilidad de materiales de nave.",
+      "El registro público no reporta los límites finales medidos de llama fría ni el mecanismo validado; estos requieren las publicaciones del proyecto."
+    ]
+  },
+  "PSI-20": {
+    "key_findings": [
+      "BRE observed quasi-steady burning of methane/nitrogen and ethylene/nitrogen mixtures on 25 mm and 50 mm porous burners in long-duration microgravity, including O2/N2 ambients at 14.7, 10.2, and 8.2 psia.",
+      "The experiments reproduced the burning behavior of condensed fuels such as PMMA and nylon and produced extinction-limit data for a flammability map without forced airflow.",
+      "A notable reported result is that burning continued in elevated-oxygen atmospheres after ventilation ceased, whereas flames in a 21% oxygen atmosphere self-extinguished in a short time."
+    ],
+    "key_findings_es": [
+      "BRE observó combustión cuasiestacionaria de mezclas metano/nitrógeno y etileno/nitrógeno en quemadores porosos de 25 y 50 mm en microgravedad prolongada, incluidos ambientes O2/N2 a 14,7, 10,2 y 8,2 psia.",
+      "Los experimentos reprodujeron el comportamiento de combustión de combustibles condensados como PMMA y nailon y produjeron datos de límites de extinción para un mapa de inflamabilidad sin flujo de aire forzado.",
+      "Un resultado reportado es que la combustión continuó en atmósferas enriquecidas con oxígeno tras cesar la ventilación, mientras que las llamas en una atmósfera con 21% de oxígeno se autoextinguieron en poco tiempo."
+    ],
+    "limitations": [
+      "The investigators describe the results as preliminary, and the porous-gas burner is an emulator rather than the actual spacecraft material.",
+      "Ignition limits were not tested in microgravity, and the public record does not include the full flammability map."
+    ],
+    "limitations_es": [
+      "Los investigadores describen los resultados como preliminares, y el quemador poroso de gas es un emulador, no el material real de la nave.",
+      "Los límites de ignición no se ensayaron en microgravedad, y el registro público no incluye el mapa completo de inflamabilidad."
+    ]
+  },
+  "PSI-21": {
+    "key_findings": [
+      "CLD Flame characterized weak coflow diffusion flames of methane and ethylene, measuring flame shape, liftoff height, temperature, and extinction limits across velocity and fuel-dilution conditions.",
+      "For sooting flames, it combined soot luminosity, laser extinction, and thin-filament pyrometry to obtain soot temperature and soot volume fraction over a wide range of soot loading.",
+      "The dataset was designed to improve soot submodels and to separate convection, diffusion, and chemistry effects that buoyancy obscures in normal gravity."
+    ],
+    "key_findings_es": [
+      "CLD Flame caracterizó llamas de difusión débiles con coflujo de metano y etileno, midiendo forma de llama, altura de desprendimiento, temperatura y límites de extinción en función de la velocidad y la dilución del combustible.",
+      "Para llamas con hollín, combinó luminosidad de hollín, extinción láser y pirometría de filamento delgado para obtener temperatura y fracción volumétrica de hollín en un amplio rango de carga.",
+      "El conjunto de datos se diseñó para mejorar los submodelos de hollín y separar los efectos de convección, difusión y química que la flotabilidad oculta en gravedad normal."
+    ],
+    "limitations": [
+      "The experiments use gaseous fuels and laboratory burners, so the soot models require validation against real fuel blends and practical combustor pressures.",
+      "Optical soot diagnostics are line-of-sight and depend on inversion assumptions; the public metadata does not report the measured soot fields."
+    ],
+    "limitations_es": [
+      "Los experimentos usan combustibles gaseosos y quemadores de laboratorio, por lo que los modelos de hollín requieren validación con mezclas reales y presiones de combustores prácticos.",
+      "Los diagnósticos ópticos de hollín son integrados en la línea de visión y dependen de supuestos de inversión; los metadatos públicos no reportan los campos de hollín medidos."
+    ]
+  },
+  "PSI-22": {
+    "key_findings": [
+      "E-FIELD applied up to 10 kV between the burner and a downstream mesh to measure chemi-ion current, flame response time, soot formation, and near-limit lifted flames in microgravity.",
+      "Methane and ethylene flames with controlled nitrogen dilution showed how electric fields drive ion-induced convection and modify flame stability and soot distribution.",
+      "Although not driven by a space application, the results inform electric-field flame control for reduced pollutant emissions and possibly future space combustion devices."
+    ],
+    "key_findings_es": [
+      "E-FIELD aplicó hasta 10 kV entre el quemador y una malla aguas abajo para medir corriente de quimioiones, tiempo de respuesta de la llama, formación de hollín y llamas desprendidas cerca del límite en microgravedad.",
+      "Llamas de metano y etileno con dilución controlada de nitrógeno mostraron cómo los campos eléctricos impulsan convección inducida por iones y modifican la estabilidad y la distribución de hollín.",
+      "Aunque no responde a una aplicación espacial, los resultados informan el control de llamas por campo eléctrico para reducir emisiones contaminantes y, posiblemente, futuros dispositivos de combustión espaciales."
+    ],
+    "limitations": [
+      "The investigation explicitly states that it was not conducted for space applications, so direct spacecraft fire-safety claims would be an overreach.",
+      "The public record does not include the voltage-current curves or soot measurements needed for quantitative reuse."
+    ],
+    "limitations_es": [
+      "La investigación declara explícitamente que no se realizó para aplicaciones espaciales, por lo que atribuirle conclusiones directas de seguridad contra incendios en naves sería excesivo.",
+      "El registro público no incluye las curvas tensión-corriente ni las mediciones de hollín necesarias para una reutilización cuantitativa."
+    ]
+  },
+  "PSI-23": {
+    "key_findings": [
+      "s-Flame established spherical diffusion flames on a porous burner with hydrogen/methane/ethylene fuels and nitrogen, helium, or CO2 dilution, and measured their transient temperature and species structure.",
+      "It determined convective/kinetic and radiative/kinetic extinction limits as functions of mixture composition and flow rate, and examined pulsating instabilities at high Lewis number.",
+      "The data provide a one-dimensional benchmark for transport properties, detailed kinetics, chemiluminescence, and radiative heat loss in buoyancy-free diffusion flames."
+    ],
+    "key_findings_es": [
+      "s-Flame estableció llamas de difusión esféricas en un quemador poroso con hidrógeno, metano y etileno, diluidos con nitrógeno, helio o CO2, y midió su estructura transitoria de temperatura y especies.",
+      "Determinó límites de extinción convectivo-cinéticos y radiativo-cinéticos en función de la composición y el caudal, y examinó inestabilidades pulsantes a alto número de Lewis.",
+      "Los datos aportan una referencia unidimensional para propiedades de transporte, cinética detallada, quimioluminiscencia y pérdida de calor por radiación en llamas de difusión sin flotabilidad."
+    ],
+    "limitations": [
+      "The spherical, one-dimensional geometry is deliberately idealized and uses gaseous fuels; practical flame configurations introduce multidimensional and turbulent effects.",
+      "The public summary does not expose measured instability maps or extinction limits; those are in the project's scientific publications."
+    ],
+    "limitations_es": [
+      "La geometría esférica y unidimensional es deliberadamente idealizada y usa combustibles gaseosos; las configuraciones prácticas introducen efectos multidimensionales y turbulentos.",
+      "El resumen público no expone los mapas de inestabilidad ni los límites de extinción medidos; estos están en las publicaciones científicas del proyecto."
+    ]
+  },
+  "PSI-25": {
+    "key_findings": [
+      "BASS-II burned thick solid fuels—slabs, cylinders, spherical sections, films, and fabrics—in the ISS Microgravity Science Glovebox under forced flows up to 40 cm/s and oxygen concentrations below 21%.",
+      "It measured ignition, flame growth, flame spread, and extinction in opposed and concurrent flow, and related these to material geometry and ambient oxygen.",
+      "The campaign was designed to bridge NASA-STD-6001 Test 1, ground-based microgravity tests, and actual microgravity flammability, and to provide preliminary data for SoFIE."
+    ],
+    "key_findings_es": [
+      "BASS-II quemó combustibles sólidos gruesos —placas, cilindros, secciones esféricas, películas y telas— en la guantera de microgravedad de la ISS con flujos forzados de hasta 40 cm/s y concentraciones de oxígeno inferiores al 21%.",
+      "Midió ignición, crecimiento de llama, propagación y extinción en flujo opuesto y concurrente, y las relacionó con la geometría del material y el oxígeno ambiente.",
+      "La campaña se diseñó para tender un puente entre el ensayo NASA-STD-6001 Test 1, los ensayos de microgravedad en tierra y la inflamabilidad real en microgravedad, y para aportar datos preliminares a SoFIE."
+    ],
+    "limitations": [
+      "The glovebox wind tunnel limits sample size and flow range, and the tests only reduced oxygen below 21%, leaving enriched-oxygen environments uncharacterized.",
+      "Public metadata does not include the tabulated flammability limits; quantitative use requires the BASS-II data products and publications."
+    ],
+    "limitations_es": [
+      "El túnel de viento de la guantera limita el tamaño de muestra y el rango de flujo, y los ensayos solo redujeron el oxígeno por debajo del 21%, dejando sin caracterizar atmósferas enriquecidas.",
+      "Los metadatos públicos no incluyen las tablas de límites de inflamabilidad; su uso cuantitativo requiere los productos de datos y las publicaciones de BASS-II."
+    ]
+  },
+  "PSI-26": {
+    "key_findings": [
+      "BASS burned cotton/fiberglass fabric, Nomex, and Ultem samples in the ISS Microgravity Science Glovebox at airflow speeds up to 40 cm/s, in concurrent and opposed flow.",
+      "It assessed the effectiveness of an inert gaseous extinguishing agent similar to the ISS system, and measured flame size, shape, color, spread rate, and quenching behavior.",
+      "The results provide radiative heat-emission data for first-order spacecraft fire models and support performance-based material selection beyond NASA-STD-6001 Test 1."
+    ],
+    "key_findings_es": [
+      "BASS quemó muestras de tela de algodón/fibra de vidrio, Nomex y Ultem en la guantera de microgravedad de la ISS con velocidades de aire de hasta 40 cm/s, en flujo concurrente y opuesto.",
+      "Evaluó la eficacia de un agente extintor gaseoso inerte similar al del sistema de la ISS y midió tamaño, forma, color, velocidad de propagación y extinción de la llama.",
+      "Los resultados aportan datos de emisión de calor por radiación para modelos de primer orden de incendios en naves y respaldan una selección de materiales basada en desempeño más allá del ensayo NASA-STD-6001 Test 1."
+    ],
+    "limitations": [
+      "The sample set and flow duct are small compared with a spacecraft compartment, and only one extinguishing-agent concept was evaluated.",
+      "The public record does not report the measured spread rates or agent concentrations; those remain in the mission data and publications."
+    ],
+    "limitations_es": [
+      "El conjunto de muestras y el conducto de flujo son pequeños en comparación con un compartimento de nave, y solo se evaluó un concepto de agente extintor.",
+      "El registro público no reporta las velocidades de propagación ni las concentraciones de agente medidas; estos datos permanecen en la misión y en las publicaciones."
+    ]
+  },
+  "PSI-39": {
+    "key_findings": [
+      "CFI burned n-dodecane, farnesane, and n-dodecane/iso-dodecane droplets in the CIR/MDCA facility at pressures from 0.25 to 5 atm, with helium dilution and controlled oxygen atmospheres.",
+      "The experiments examined droplet size, pressure, flame extinction, soot formation, and low-temperature cool-flame behavior using droplet imaging, OH* imaging, and radiometry.",
+      "The results support kinetic-mechanism validation and the design of cleaner HCCI and diesel combustion, where cool-flame reactivity affects octane and cetane behavior."
+    ],
+    "key_findings_es": [
+      "CFI quemó gotas de n-dodecano, farnesano y mezclas n-dodecano/iso-dodecano en la instalación CIR/MDCA a presiones de 0,25 a 5 atm, con dilución de helio y atmósferas de oxígeno controladas.",
+      "Los experimentos examinaron tamaño de gota, presión, extinción de llama, formación de hollín y comportamiento de llama fría de baja temperatura mediante imágenes de gotas, imágenes de OH* y radiometría.",
+      "Los resultados respaldan la validación de mecanismos cinéticos y el diseño de combustión HCCI y diésel más limpia, donde la reactividad de llama fría afecta el octanaje y el número de cetano."
+    ],
+    "limitations": [
+      "Droplet combustion is a small-scale, idealized configuration; soot and extinction behavior may differ in sprays and full-scale combustors.",
+      "The public record does not include the measured extinction diameters or soot data, and the pressure range stops at 5 atm."
+    ],
+    "limitations_es": [
+      "La combustión de gotas es una configuración idealizada y de pequeña escala; el hollín y la extinción pueden diferir en pulverizaciones y combustores de escala real.",
+      "El registro público no incluye los diámetros de extinción ni los datos de hollín medidos, y el rango de presión termina en 5 atm."
+    ]
+  },
+  "PSI-47": {
+    "key_findings": [
+      "DAFT/DAFT-2 redesigned the TSI P-Trak for microgravity by replacing gravity-driven alcohol recycling with capillary forces and removing the orientation mercury switch.",
+      "The modified counter was tested on orbit against the DustTrak using Arizona Red Dust aerosol standards in 15-liter Mylar bags.",
+      "The campaign demonstrated that the modified P-Trak can operate in microgravity and reduced the technical risk for the SAME smoke-aerosol experiment."
+    ],
+    "key_findings_es": [
+      "DAFT/DAFT-2 rediseñó el TSI P-Trak para microgravedad reemplazando el reciclaje de alcohol por gravedad con fuerzas capilares y eliminando el interruptor de mercurio de orientación.",
+      "El contador modificado se probó en órbita frente al DustTrak usando estándares de aerosol de polvo rojo de Arizona en bolsas Mylar de 15 litros.",
+      "La campaña demostró que el P-Trak modificado puede operar en microgravedad y redujo el riesgo técnico del experimento de aerosoles de humo SAME."
+    ],
+    "limitations": [
+      "Arizona Red Dust is a surrogate aerosol, not combustion smoke, so the test validates instrument function rather than smoke-detection performance.",
+      "The public metadata does not report the counting agreement between the two instruments; that result is in the project documentation."
+    ],
+    "limitations_es": [
+      "El polvo rojo de Arizona es un aerosol sustituto, no humo de combustión, por lo que el ensayo valida el funcionamiento del instrumento y no el desempeño de detección de humo.",
+      "Los metadatos públicos no reportan la concordancia de conteo entre ambos instrumentos; ese resultado está en la documentación del proyecto."
+    ]
+  },
+  "PSI-60": {
+    "key_findings": [
+      "The study re-analyzed more than 1,600 raw SPICE DSLR images with color-ratio pyrometry to derive soot temperature fields and, after absolute light calibration, soot volume fractions.",
+      "It coupled flow, species, and soot modeling with radiation re-absorption and discrete-sectional aggregate formation for Yale and ACME burners in normal and microgravity conditions.",
+      "Sensitivity analyses identified how radiation, scattering, boundary conditions, and burner heat transfer affect soot evolution and the interpretation of smoke-point data."
+    ],
+    "key_findings_es": [
+      "El estudio reanalizó más de 1.600 imágenes DSLR crudas de SPICE con pirometría de relación de colores para derivar campos de temperatura de hollín y, tras calibración absoluta de luz, fracciones volumétricas de hollín.",
+      "Acopló modelos de flujo, especies y hollín con reabsorción de radiación y formación de agregados por secciones discretas para quemadores Yale y ACME en condiciones de gravedad normal y microgravedad.",
+      "Los análisis de sensibilidad identificaron cómo la radiación, la dispersión, las condiciones de contorno y la transferencia de calor al quemador afectan la evolución del hollín y la interpretación de los datos de punto de humo."
+    ],
+    "limitations": [
+      "Color-ratio pyrometry depends on emissivity and calibration assumptions, and the analysis is a ground-based re-use of archival images rather than a new experiment.",
+      "The public record does not provide the derived soot fields or the model sensitivity tables."
+    ],
+    "limitations_es": [
+      "La pirometría de relación de colores depende de supuestos de emisividad y calibración, y el análisis es una reutilización en tierra de imágenes de archivo, no un experimento nuevo.",
+      "El registro público no proporciona los campos de hollín derivados ni las tablas de sensibilidad del modelo."
+    ]
+  },
+  "PSI-62": {
+    "key_findings": [
+      "The project developed an unsteady flamelet generated manifold (UFGM) model for concurrent flame spread in microgravity and tested it against BASS and BASS-II geometries, including PMMA sheets, spheres, rods, and wax cylinders.",
+      "BASS imagery was post-processed with two-color tomography to reconstruct soot and temperature fields for direct comparison with flame geometry, soot volume fraction, and spread-rate predictions.",
+      "The work targets the 'Goldilocks' flammability zone and provides a path toward LES subgrid models for spacecraft fire-hazard assessment."
+    ],
+    "key_findings_es": [
+      "El proyecto desarrolló un modelo de variedad generada por llamas no estacionarias (UFGM) para la propagación concurrente de llamas en microgravedad y lo contrastó con geometrías de BASS y BASS-II, incluidas placas, esferas y varillas de PMMA, y cilindros de cera.",
+      "Las imágenes de BASS se posprocesaron con tomografía de dos colores para reconstruir campos de hollín y temperatura y compararlos con la geometría de llama, la fracción volumétrica de hollín y las predicciones de velocidad de propagación.",
+      "El trabajo apunta a la zona de inflamabilidad 'Goldilocks' y abre un camino hacia modelos de subgrilla para LES en la evaluación del riesgo de incendio en naves."
+    ],
+    "limitations": [
+      "The model relies on simplified material properties and charring/ablation assumptions, so predictive skill outside the BASS material set is not established.",
+      "The public metadata does not include quantitative validation errors or the reconstructed fields; those are in the project publications."
+    ],
+    "limitations_es": [
+      "El modelo se apoya en propiedades de material simplificadas y supuestos de carbonización/ablación, por lo que no se ha establecido su capacidad predictiva fuera del conjunto de materiales BASS.",
+      "Los metadatos públicos no incluyen errores de validación cuantitativos ni los campos reconstruidos; estos están en las publicaciones del proyecto."
+    ]
+  },
+  "PSI-68": {
+    "key_findings": [
+      "FLEX-2 burned bi-component and pure fuel droplets in microgravity at pressures from 0.5 to 3.0 atm and oxygen mole fractions from 0.1 to 0.4, including binary droplet arrays.",
+      "The experiments examined liquid-phase mixing, soot-shell dynamics, flame extinction boundaries, and droplet interactions, with high-speed imaging and chamber diagnostics.",
+      "The dataset provides benchmark validation for droplet-combustion models and supports the development of fuel surrogates for practical combustors."
+    ],
+    "key_findings_es": [
+      "FLEX-2 quemó gotas de combustible puras y bicomponentes en microgravedad a presiones de 0,5 a 3,0 atm y fracciones molares de oxígeno de 0,1 a 0,4, incluidos arreglos binarios de gotas.",
+      "Los experimentos examinaron la mezcla en fase líquida, la dinámica de la capa de hollín, los límites de extinción y las interacciones entre gotas, con imágenes de alta velocidad y diagnóstico de cámara.",
+      "El conjunto de datos aporta validación de referencia para modelos de combustión de gotas y respalda el desarrollo de sustitutos de combustible para combustores prácticos."
+    ],
+    "limitations": [
+      "Droplet sizes, support fibers, and array configurations are necessarily limited, and the results do not reproduce the full spray environment of an engine.",
+      "The public record contains objectives and impacts but not the measured burning-rate or extinction data."
+    ],
+    "limitations_es": [
+      "Los tamaños de gota, las fibras de soporte y las configuraciones de arreglos son necesariamente limitados, y los resultados no reproducen el entorno completo de pulverización de un motor.",
+      "El registro público contiene objetivos e impactos, pero no los datos medidos de velocidad de combustión ni de extinción."
+    ]
+  },
+  "PSI-69": {
+    "key_findings": [
+      "FLEX mapped the limiting oxygen index of liquid fuels in microgravity as a function of pressure from 0.5 to 1.5 atm and tested CO2, helium, and SF6 as gaseous suppressants.",
+      "It measured droplet burning rates, extinction behavior, soot levels, heat radiation, and temperature profiles for free and fiber-supported droplets, including slow sub-buoyant drift.",
+      "The campaign provides a microgravity database for fire-suppression effectiveness and for validating droplet-combustion and flammability models."
+    ],
+    "key_findings_es": [
+      "FLEX mapeó el índice límite de oxígeno de combustibles líquidos en microgravedad en función de la presión de 0,5 a 1,5 atm y evaluó CO2, helio y SF6 como extintores gaseosos.",
+      "Midió velocidades de combustión de gotas, comportamiento de extinción, niveles de hollín, radiación térmica y perfiles de temperatura en gotas libres y soportadas por fibra, incluida una deriva lenta subflotante.",
+      "La campaña aporta una base de datos en microgravedad para la eficacia de la supresión de incendios y para validar modelos de combustión de gotas e inflamabilidad."
+    ],
+    "limitations": [
+      "The iterative LOI procedure could not resolve extinction droplets that were too small for the available diagnostics, introducing uncertainty in some limits.",
+      "Single-droplet suppressant tests do not directly scale to compartment fires, and the public metadata omits the LOI tables."
+    ],
+    "limitations_es": [
+      "El procedimiento iterativo del LOI no pudo resolver gotas en extinción demasiado pequeñas para los diagnósticos disponibles, lo que introduce incertidumbre en algunos límites.",
+      "Los ensayos de extintores con gotas individuales no escalan directamente a incendios de compartimento, y los metadatos públicos omiten las tablas de LOI."
+    ]
+  },
+  "PSI-98": {
+    "key_findings": [
+      "Saffire-I burned a 0.94 m × 0.4 m SIBAL fabric sample—75% cotton and 25% fiberglass—in a large flow duct on an uncrewed Cygnus vehicle at 20 cm/s.",
+      "Two cameras, thermocouples, radiometers, pressure and CO2/O2 sensors, and anemometers recorded large-scale flame growth and the thermal environment throughout the burn.",
+      "The experiment established a realistic microgravity fire platform for comparing low-gravity flammability limits with NASA's normal-gravity screening test."
+    ],
+    "key_findings_es": [
+      "Saffire-I quemó una muestra de tela SIBAL de 0,94 m × 0,4 m —75% algodón y 25% fibra de vidrio— en un gran conducto de flujo a bordo de una nave Cygnus no tripulada, a 20 cm/s.",
+      "Dos cámaras, termopares, radiómetros, sensores de presión y CO2/O2, y anemómetros registraron el crecimiento de la llama a gran escala y el entorno térmico durante la combustión.",
+      "El experimento estableció una plataforma realista de incendio en microgravedad para comparar los límites de inflamabilidad en baja gravedad con el ensayo de cribado de la NASA en gravedad normal."
+    ],
+    "limitations": [
+      "The test used one material and one flow speed in an uncrewed cargo vehicle, so habitat-specific geometry and ventilation effects remain unresolved.",
+      "The public record does not expose the quantitative flame-growth or flammability-limit results."
+    ],
+    "limitations_es": [
+      "El ensayo utilizó un solo material y una sola velocidad de flujo en una nave de carga no tripulada, por lo que persisten las incógnitas sobre geometría y ventilación específicas de un hábitat.",
+      "El registro público no expone los resultados cuantitativos de crecimiento de llama ni de límites de inflamabilidad."
+    ]
+  },
+  "PSI-99": {
+    "key_findings": [
+      "Saffire-II expanded the Saffire-I sample card to nine 5 cm × 29 cm specimens, including SIBAL, silicone, structural PMMA, flat PMMA, and PMMA with Nomex.",
+      "The experiments ran at 20 or 30 cm/s in concurrent or opposed flow, measuring flame growth, temperature, radiation, pressure, CO2/O2, and flow velocity.",
+      "The multi-material matrix was designed to compare low-gravity flammability limits with normal-gravity screening and to strengthen NASA material-selection criteria."
+    ],
+    "key_findings_es": [
+      "Saffire-II amplió la tarjeta de muestras de Saffire-I a nueve especímenes de 5 cm × 29 cm, incluidos SIBAL, silicona, PMMA estructural, PMMA plano y PMMA con Nomex.",
+      "Los experimentos se ejecutaron a 20 o 30 cm/s en flujo concurrente u opuesto, midiendo crecimiento de llama, temperatura, radiación, presión, CO2/O2 y velocidad del flujo.",
+      "La matriz multimaterial se diseñó para comparar los límites de inflamabilidad en baja gravedad con el cribado en gravedad normal y reforzar los criterios de selección de materiales de la NASA."
+    ],
+    "limitations": [
+      "Nine small samples on a single card cannot represent the full range of spacecraft materials, thicknesses, and mounting configurations.",
+      "The public metadata does not include the per-sample results; quantitative comparison requires the Saffire-II data products and publications."
+    ],
+    "limitations_es": [
+      "Nueve muestras pequeñas en una sola tarjeta no pueden representar todo el rango de materiales, espesores y montajes de una nave.",
+      "Los metadatos públicos no incluyen los resultados por muestra; la comparación cuantitativa requiere los productos de datos y las publicaciones de Saffire-II."
+    ]
+  }
+}

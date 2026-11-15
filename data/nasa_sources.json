@@ -1,0 +1,497 @@
+{
+  "generated_at": "2026-11-14",
+  "source": "NASA Spinoff, NASA Glenn Research Center and NASA Science",
+  "source_url": "https://www.nasa.gov/",
+  "count": 6,
+  "investigations": [
+    {
+      "accession": "NASA-SP-9918",
+      "title": "New Technology for the Fire Attire",
+      "title_es": "Nueva tecnología para el equipo de protección de bomberos",
+      "acronym": "Project FIRES",
+      "research_area": "Fire Safety Technology",
+      "sub_research_area": "Protective Equipment",
+      "project_type": "NASA Spinoff / Technology Transfer",
+      "flight_platform": "Apollo-derived materials",
+      "start_date": "1982",
+      "end_date": "",
+      "sponsoring_agency": "National Aeronautics and Space Administration (NASA) and Federal Emergency Management Agency (FEMA)",
+      "managing_center": "Marshall Space Flight Center (MSFC)",
+      "objective": "Adapt lightweight, fire-resistant, heat-protective materials and design concepts developed for Apollo spacesuits and spacecraft thermal protection to a complete firefighter protective ensemble.",
+      "approach": "Project FIRES (Firefighter's Integrated Response Equipment System) was jointly sponsored by NASA and FEMA's U.S. Fire Administration, with technical management from Marshall Space Flight Center. Fourteen municipal fire departments evaluated the ensemble in the field to support a future national protective-equipment standard.",
+      "research_impacts": "The project transferred aerospace thermal-protection materials into firefighter turnout gear, targeting reduced injuries and fatalities during fire suppression. Its field data informed the design and evaluation of protective ensembles.",
+      "description": "NASA Spinoff article originally published in 1982 describing the transfer of Apollo-derived materials and design concepts to firefighter protective clothing.",
+      "keywords": [
+        "firefighter protective clothing",
+        "Project FIRES",
+        "thermal protection",
+        "fire-resistant materials",
+        "Apollo",
+        "technology transfer"
+      ],
+      "hardware": [
+        "protective ensemble",
+        "thermal-protective textiles"
+      ],
+      "publications": [
+        {
+          "title": "New Technology for the Fire Attire",
+          "authors": "NASA Spinoff",
+          "doi": "",
+          "pubMedID": "",
+          "url": "http://hdl.handle.net/2060/20030002834"
+        }
+      ],
+      "contacts": [],
+      "doi": "",
+      "thumbnail": "",
+      "source_url": "https://spinoff.nasa.gov/node/9918",
+      "phases": [
+        "prevention",
+        "suppression"
+      ],
+      "environments": [
+        "earth"
+      ],
+      "fuel_types": [],
+      "gravity_types": [
+        "normal_gravity"
+      ],
+      "sensors": [
+        "thermal exposure"
+      ],
+      "classification_source": "curated",
+      "relevance_score": 0.86,
+      "summary_en": "Project FIRES adapted Apollo-derived lightweight, fire-resistant and heat-protective materials into firefighter turnout gear. NASA and FEMA sponsored the program, Marshall Space Flight Center managed it technically, and fourteen municipal fire departments evaluated the ensemble.",
+      "summary_es": "Project FIRES adaptó materiales ligeros, ignífugos y de protección térmica derivados de Apollo al equipo de protección de bomberos. NASA y FEMA patrocinaron el programa, el Marshall Space Flight Center aportó la gestión técnica y catorce departamentos de bomberos evaluaron el conjunto en campo.",
+      "key_findings": [
+        "Apollo-era thermal-protection materials were transferred to firefighter protective clothing.",
+        "The FIRES ensemble was evaluated by fourteen municipal fire departments.",
+        "Field evaluation data were intended to support a nationwide protective-ensemble standard."
+      ],
+      "key_findings_es": [
+        "Los materiales de protección térmica de la era Apollo se transfirieron a la ropa protectora de bomberos.",
+        "Catorce departamentos municipales de bomberos evaluaron el conjunto FIRES.",
+        "Los datos de evaluación en campo buscaban apoyar una norma nacional de equipos de protección."
+      ],
+      "limitations": [
+        "This is a technology-transfer record, not a controlled combustion experiment.",
+        "The public article does not provide quantitative heat-transfer or flammability data."
+      ],
+      "limitations_es": [
+        "Es un registro de transferencia tecnológica, no un experimento de combustión controlado.",
+        "El artículo público no incluye datos cuantitativos de transferencia de calor ni de inflamabilidad."
+      ],
+      "experimental_table": null,
+      "data_readiness": "metadata"
+    },
+    {
+      "accession": "NASA-SP-9582",
+      "title": "Fireman's Air Tanks",
+      "title_es": "Tanques de aire para bomberos",
+      "acronym": "Scott/NASA Air Tank",
+      "research_area": "Fire Safety Technology",
+      "sub_research_area": "Respiratory Protection",
+      "project_type": "NASA Spinoff / Technology Transfer",
+      "flight_platform": "Ground firefighting equipment",
+      "start_date": "1976",
+      "end_date": "",
+      "sponsoring_agency": "National Aeronautics and Space Administration (NASA)",
+      "managing_center": "Johnson Space Center (JSC)",
+      "objective": "Reduce the weight and improve the usability of self-contained breathing apparatus for firefighters by transferring lightweight composite pressure-vessel technology.",
+      "approach": "NASA's Johnson Space Center worked with A-T-O Inc.'s Scott Aviation on a 4,500 psi air tank made from an aluminum liner wrapped with resin-impregnated glass fibers. The backpack system supplies 30 minutes of air, weighs about 20 pounds, and includes a redesigned face mask and a personal low-air warning.",
+      "research_impacts": "The lighter tank reduces physical load and corrosion while doubling the working pressure of conventional tanks. The personal low-air alarm limits confusion in noisy emergency environments.",
+      "description": "NASA Spinoff article originally published in 1976 describing a lightweight firefighter air tank developed with Johnson Space Center and Scott Aviation.",
+      "keywords": [
+        "self-contained breathing apparatus",
+        "SCBA",
+        "composite pressure vessel",
+        "firefighter air tank",
+        "low-air alarm",
+        "respiratory protection"
+      ],
+      "hardware": [
+        "aluminum liner",
+        "resin-impregnated glass-fiber wrap",
+        "redesigned face mask",
+        "personal low-air alarm"
+      ],
+      "publications": [
+        {
+          "title": "Fireman's Air Tanks",
+          "authors": "NASA Spinoff",
+          "doi": "",
+          "pubMedID": "",
+          "url": "http://hdl.handle.net/2060/20030005480"
+        }
+      ],
+      "contacts": [],
+      "doi": "",
+      "thumbnail": "",
+      "source_url": "https://spinoff.nasa.gov/node/9582",
+      "phases": [
+        "suppression"
+      ],
+      "environments": [
+        "earth"
+      ],
+      "fuel_types": [],
+      "gravity_types": [
+        "normal_gravity"
+      ],
+      "sensors": [
+        "pressure gauge",
+        "low-air alarm"
+      ],
+      "classification_source": "curated",
+      "relevance_score": 0.76,
+      "summary_en": "NASA's Johnson Space Center and Scott Aviation developed a lightweight 4,500 psi firefighter air tank with an aluminum liner wrapped in resin-impregnated glass fibers. The 30-minute backpack weighs about 20 pounds, 13 pounds less than conventional tanks, and adds a personal low-air warning.",
+      "summary_es": "El Johnson Space Center de NASA y Scott Aviation desarrollaron un tanque de aire de 4.500 psi con revestimiento de aluminio envuelto en fibra de vidrio impregnada con resina. El equipo de 30 minutos pesa unos 20 libras, 13 menos que los tanques convencionales, e incluye una alarma personal de baja presión.",
+      "key_findings": [
+        "The composite tank operates at 4,500 psi, roughly twice the pressure of conventional firefighter tanks.",
+        "The 30-minute backpack weighs about 20 pounds, 13 pounds less than conventional systems.",
+        "A personalized low-air warning and redesigned face mask improve usability in emergency response."
+      ],
+      "key_findings_es": [
+        "El tanque compuesto opera a 4.500 psi, aproximadamente el doble de la presión de los tanques convencionales.",
+        "El equipo de 30 minutos pesa unas 20 libras, 13 menos que los sistemas convencionales.",
+        "Una alarma personal de baja presión y una máscara rediseñada mejoran el uso durante la respuesta de emergencia."
+      ],
+      "limitations": [
+        "The article documents hardware transfer and specifications, not fire-suppression experiments.",
+        "The source does not report independent endurance or failure-rate tests."
+      ],
+      "limitations_es": [
+        "El artículo documenta transferencia de hardware y especificaciones, no experimentos de supresión de incendios.",
+        "La fuente no reporta ensayos independientes de resistencia ni de tasa de fallos."
+      ],
+      "experimental_table": null,
+      "data_readiness": "metadata"
+    },
+    {
+      "accession": "NASA-SP-9407",
+      "title": "Fire Detector",
+      "title_es": "Detector de incendios",
+      "acronym": "Brunswick Incipient Fire Detector",
+      "research_area": "Fire Safety Technology",
+      "sub_research_area": "Early Fire Detection",
+      "project_type": "NASA Spinoff / Technology Transfer",
+      "flight_platform": "Space Shuttle orbiter",
+      "start_date": "1978",
+      "end_date": "",
+      "sponsoring_agency": "National Aeronautics and Space Administration (NASA)",
+      "managing_center": "NASA Space Shuttle Program",
+      "objective": "Detect combustion particles before visible flame or smoke while discriminating against dust and other non-combustion particles that cause false alarms.",
+      "approach": "The Brunswick Incipient Fire Detector samples air and analyzes combustion particles. It was originally used in Space Shuttle orbiters and can link multiple sensors to a central processor and display for large areas such as mines.",
+      "research_impacts": "The detector provides earlier warning than conventional smoke detectors and reduces false alarms by distinguishing combustion particles from dust. It also supports centralized fire watch and location identification.",
+      "description": "NASA Spinoff article originally published in 1978 describing an incipient fire detector used on Space Shuttle orbiters and adapted for terrestrial large-area monitoring.",
+      "keywords": [
+        "incipient fire detection",
+        "combustion particles",
+        "smoke detector",
+        "dust discrimination",
+        "false alarm",
+        "space shuttle"
+      ],
+      "hardware": [
+        "air sampling sensor",
+        "central processor/display"
+      ],
+      "publications": [
+        {
+          "title": "Fire Detector",
+          "authors": "NASA Spinoff",
+          "doi": "",
+          "pubMedID": "",
+          "url": "http://hdl.handle.net/2060/20070018916"
+        }
+      ],
+      "contacts": [],
+      "doi": "",
+      "thumbnail": "",
+      "source_url": "https://spinoff.nasa.gov/node/9407",
+      "phases": [
+        "detection"
+      ],
+      "environments": [
+        "spacecraft",
+        "earth"
+      ],
+      "fuel_types": [],
+      "gravity_types": [
+        "microgravity",
+        "normal_gravity"
+      ],
+      "sensors": [
+        "combustion particles",
+        "dust discrimination",
+        "air sampling"
+      ],
+      "classification_source": "curated",
+      "relevance_score": 0.89,
+      "summary_en": "The Brunswick Incipient Fire Detector samples air to identify combustion particles before flame or visible smoke appears. It was originally used in Space Shuttle orbiters and discriminates combustion products from dust, reducing false alarms. Multiple sensors can feed a central display for large facilities.",
+      "summary_es": "El detector incipiente de Brunswick muestrea el aire para identificar partículas de combustión antes de que aparezcan llama o humo visible. Se usó originalmente en los orbitadores del transbordador espacial y distingue los productos de combustión del polvo, lo que reduce las falsas alarmas. Varios sensores pueden alimentar una central.",
+      "key_findings": [
+        "The detector senses combustion particles before visible flame or smoke.",
+        "Dust discrimination reduces false alarms compared with earlier equipment.",
+        "Multiple sensors can be networked to a central processor for large-area fire watch."
+      ],
+      "key_findings_es": [
+        "El detector percibe partículas de combustión antes de la llama o el humo visible.",
+        "La discriminación de polvo reduce las falsas alarmas frente a equipos anteriores.",
+        "Varios sensores pueden conectarse a un procesador central para vigilancia de grandes áreas."
+      ],
+      "limitations": [
+        "The article is a technology-transfer summary and does not report detector sensitivity curves.",
+        "Performance in reduced gravity or low-pressure habitats is not quantified in the public source."
+      ],
+      "limitations_es": [
+        "El artículo es un resumen de transferencia tecnológica y no reporta curvas de sensibilidad del detector.",
+        "La fuente pública no cuantifica el desempeño en gravedad reducida ni en hábitats de baja presión."
+      ],
+      "experimental_table": null,
+      "data_readiness": "metadata"
+    },
+    {
+      "accession": "NASA-FCF",
+      "title": "Fluids and Combustion Facility (FCF)",
+      "title_es": "Instalación de fluidos y combustión (FCF)",
+      "acronym": "FCF",
+      "research_area": "Combustion Science",
+      "sub_research_area": "ISS Research Facilities",
+      "project_type": "ISS Research Facility",
+      "flight_platform": "International Space Station (ISS), Destiny laboratory",
+      "start_date": "2008",
+      "end_date": "",
+      "sponsoring_agency": "National Aeronautics and Space Administration (NASA)",
+      "managing_center": "Glenn Research Center (GRC)",
+      "objective": "Provide modular ISS facilities for physical and biological experiments and for technology development and validation in space.",
+      "approach": "The FCF consists of two reconfigurable racks: the Combustion Integrated Rack (CIR) and the Fluids Integrated Rack (FIR). The CIR contains a 100-liter combustion chamber and supports fire prevention, detection and suppression research, flame spread, soot production, material selection, power generation and waste incineration. The FIR provides an optics bench for multiphase flow, boiling, condensation, interfacial phenomena and thermal-control research.",
+      "research_impacts": "The CIR is the only ISS rack dedicated to combustion experimentation and supplies most of the hardware needed for microgravity combustion investigations. The FIR supports exploration life-support, power, propulsion and thermal-control research.",
+      "description": "NASA Glenn Research Center facility page describing the Combustion Integrated Rack and Fluids Integrated Rack on the International Space Station.",
+      "keywords": [
+        "Combustion Integrated Rack",
+        "CIR",
+        "Fluids Integrated Rack",
+        "FIR",
+        "ISS",
+        "fire safety",
+        "flame spread",
+        "soot",
+        "multiphase flow"
+      ],
+      "hardware": [
+        "Combustion Integrated Rack",
+        "100-liter combustion chamber",
+        "Fluids Integrated Rack",
+        "optical diagnostics"
+      ],
+      "publications": [],
+      "contacts": [],
+      "doi": "",
+      "thumbnail": "",
+      "source_url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/science-facilities-on-the-iss/fluids-combustion-facility/",
+      "phases": [
+        "prevention",
+        "detection",
+        "suppression"
+      ],
+      "environments": [
+        "spacecraft"
+      ],
+      "fuel_types": [
+        "gas",
+        "liquid",
+        "solid"
+      ],
+      "gravity_types": [
+        "microgravity"
+      ],
+      "sensors": [
+        "camera",
+        "gas analysis",
+        "thermocouple",
+        "radiometer"
+      ],
+      "classification_source": "curated",
+      "relevance_score": 0.91,
+      "summary_en": "The Fluids and Combustion Facility is a pair of ISS racks: the Combustion Integrated Rack (CIR) and the Fluids Integrated Rack (FIR). The CIR's 100-liter chamber is the only ISS rack dedicated to combustion research and supports fire prevention, detection, suppression, flame spread, soot and material studies. The FIR provides an optics bench for multiphase flow and thermal-control experiments.",
+      "summary_es": "La Instalación de Fluidos y Combustión agrupa dos racks de la ISS: el Combustion Integrated Rack (CIR) y el Fluids Integrated Rack (FIR). La cámara de 100 litros del CIR es el único rack de la ISS dedicado a combustión y apoya estudios de prevención, detección, supresión, propagación de llama, hollín y materiales. El FIR ofrece una plataforma óptica para flujos multifásicos y control térmico.",
+      "key_findings": [
+        "The CIR is the only ISS rack dedicated to combustion experimentation.",
+        "Its 100-liter chamber supports fire prevention, detection, suppression and flame-spread research.",
+        "The FIR supports multiphase flow, boiling, condensation and thermal-control experiments."
+      ],
+      "key_findings_es": [
+        "El CIR es el único rack de la ISS dedicado a la experimentación en combustión.",
+        "Su cámara de 100 litros apoya investigación de prevención, detección, supresión y propagación de llama.",
+        "El FIR apoya experimentos de flujo multifásico, ebullición, condensación y control térmico."
+      ],
+      "limitations": [
+        "The facility page describes capabilities, not a single experiment or dataset.",
+        "CIR combustion results are obtained in microgravity and do not directly represent lunar or Martian gravity."
+      ],
+      "limitations_es": [
+        "La página de la instalación describe capacidades, no un experimento ni un conjunto de datos único.",
+        "Los resultados de combustión del CIR se obtienen en microgravedad y no representan directamente la gravedad lunar o marciana."
+      ],
+      "experimental_table": null,
+      "data_readiness": "metadata"
+    },
+    {
+      "accession": "NASA-COMBUSTION",
+      "title": "Combustion Science Focus Area",
+      "title_es": "Área de ciencia de la combustión",
+      "acronym": "NASA Combustion Science",
+      "research_area": "Combustion Science",
+      "sub_research_area": "Spacecraft Fire Safety",
+      "project_type": "NASA Research Program",
+      "flight_platform": "International Space Station (ISS) and ground laboratories",
+      "start_date": "",
+      "end_date": "",
+      "sponsoring_agency": "National Aeronautics and Space Administration (NASA)",
+      "managing_center": "NASA Biological and Physical Sciences Division",
+      "objective": "Conduct idealized microgravity experiments that isolate combustion processes and provide a test bed for spacecraft fire risk.",
+      "approach": "The program studies spacecraft fire safety, droplets, gaseous premixed and non-premixed flames, solid fuels and supercritical reacting fluids. Removing gravity allows researchers to observe transport and reaction details that are obscured on Earth.",
+      "research_impacts": "The program connects fundamental combustion science with spacecraft fire safety and with terrestrial combustion, emissions and soot research. It provides the scientific basis for experiments conducted in ISS facilities such as the CIR.",
+      "description": "NASA Science focus-area page describing the Combustion Science Discipline and its microgravity experiments on the International Space Station.",
+      "keywords": [
+        "spacecraft fire safety",
+        "droplets",
+        "premixed flames",
+        "non-premixed flames",
+        "solid fuels",
+        "supercritical reacting fluids",
+        "microgravity combustion"
+      ],
+      "hardware": [],
+      "publications": [],
+      "contacts": [],
+      "doi": "",
+      "thumbnail": "",
+      "source_url": "https://science.nasa.gov/biological-physical/focus-areas/combustion-science/",
+      "phases": [
+        "prevention",
+        "detection",
+        "suppression"
+      ],
+      "environments": [
+        "spacecraft"
+      ],
+      "fuel_types": [
+        "gas",
+        "liquid",
+        "solid"
+      ],
+      "gravity_types": [
+        "microgravity"
+      ],
+      "sensors": [
+        "smoke",
+        "aerosol",
+        "radiometer",
+        "camera"
+      ],
+      "classification_source": "curated",
+      "relevance_score": 0.9,
+      "summary_en": "NASA's Combustion Science Discipline performs idealized ISS experiments where the removal of gravity exposes transport and reaction details hidden on Earth. Its portfolio includes spacecraft fire safety, droplets, premixed and non-premixed gases, solid fuels and supercritical reacting fluids, and provides a test bed for spacecraft fire risk.",
+      "summary_es": "La disciplina de ciencia de la combustión de NASA realiza experimentos idealizados en la ISS donde la ausencia de gravedad revela detalles de transporte y reacción que en la Tierra quedan ocultos. Su portafolio incluye seguridad contra incendios en naves, gotas, gases premezclados y no premezclados, combustibles sólidos y fluidos supercríticos, y sirve de banco de pruebas para el riesgo de incendio espacial.",
+      "key_findings": [
+        "Microgravity isolates transport and reaction phenomena that are difficult to separate on Earth.",
+        "The program explicitly links fundamental combustion science to spacecraft fire risk.",
+        "Its research areas cover droplets, gaseous flames, solid fuels and supercritical reacting fluids."
+      ],
+      "key_findings_es": [
+        "La microgravedad aísla fenómenos de transporte y reacción difíciles de separar en la Tierra.",
+        "El programa vincula explícitamente la ciencia fundamental de la combustión con el riesgo de incendio en naves.",
+        "Sus áreas cubren gotas, llamas gaseosas, combustibles sólidos y fluidos supercríticos reactivos."
+      ],
+      "limitations": [
+        "The page is a program overview and does not provide a single experimental dataset.",
+        "Most results are from microgravity, so lunar and Martian gravity require separate validation."
+      ],
+      "limitations_es": [
+        "La página es una descripción del programa y no proporciona un conjunto de datos experimental único.",
+        "La mayoría de los resultados son de microgravedad, por lo que la gravedad lunar y marciana requieren validación separada."
+      ],
+      "experimental_table": null,
+      "data_readiness": "metadata"
+    },
+    {
+      "accession": "NASA-FLUID",
+      "title": "Fluid Science",
+      "title_es": "Ciencia de fluidos",
+      "acronym": "NASA Fluid Science",
+      "research_area": "Fluid Science",
+      "sub_research_area": "Microgravity Fluid Physics",
+      "project_type": "NASA Research Program",
+      "flight_platform": "International Space Station (ISS) and ground laboratories",
+      "start_date": "",
+      "end_date": "",
+      "sponsoring_agency": "National Aeronautics and Space Administration (NASA)",
+      "managing_center": "Glenn Research Center (GRC)",
+      "objective": "Study liquid and gas motion, mass, momentum and energy transport, and apply the results to spacecraft life support, thermal control, propulsion and cryogenic systems.",
+      "approach": "The program uses the ISS low-gravity environment to study adiabatic two-phase flows, flow boiling and condensation, capillary and interfacial phenomena, cryogenic flows, and experiments such as the Flow Boiling and Condensation Experiment and ZBOT-NC.",
+      "research_impacts": "Fluid-science results inform air revitalization, water reclamation, thermal control, propellant storage and fire-safety technologies that depend on how gases and liquids move in low gravity.",
+      "description": "NASA Glenn Research Center Fluid Science page describing microgravity fluid-physics research and current ISS experiments.",
+      "keywords": [
+        "fluid physics",
+        "two-phase flow",
+        "flow boiling",
+        "condensation",
+        "capillary flow",
+        "cryogenic fluids",
+        "thermal control"
+      ],
+      "hardware": [
+        "Flow Boiling and Condensation Experiment",
+        "Zero Boil-Off Tank-NC",
+        "Fluids Integrated Rack"
+      ],
+      "publications": [],
+      "contacts": [],
+      "doi": "",
+      "thumbnail": "",
+      "source_url": "https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/fluid-science/",
+      "phases": [
+        "prevention"
+      ],
+      "environments": [
+        "spacecraft"
+      ],
+      "fuel_types": [],
+      "gravity_types": [
+        "microgravity"
+      ],
+      "sensors": [
+        "pressure",
+        "temperature",
+        "flow rate"
+      ],
+      "classification_source": "curated",
+      "relevance_score": 0.73,
+      "summary_en": "NASA's Fluid Science program studies how liquids and gases move and transport mass, momentum and energy in low gravity. Its experiments cover two-phase flow, boiling and condensation, capillary interfaces and cryogenic systems, with applications in life support, thermal control and propulsion.",
+      "summary_es": "El programa de ciencia de fluidos de NASA estudia cómo se mueven líquidos y gases y cómo transportan masa, momento y energía en baja gravedad. Sus experimentos cubren flujo bifásico, ebullición y condensación, interfaces capilares y sistemas criogénicos, con aplicaciones en soporte vital, control térmico y propulsión.",
+      "key_findings": [
+        "Low gravity allows controlled study of two-phase flow, boiling, condensation and capillary behavior.",
+        "Fluid-science results support life support, thermal control, propulsion and cryogenic storage.",
+        "The Fluids Integrated Rack provides a reconfigurable optics bench for these experiments."
+      ],
+      "key_findings_es": [
+        "La baja gravedad permite estudiar de forma controlada flujo bifásico, ebullición, condensación y comportamiento capilar.",
+        "Los resultados apoyan soporte vital, control térmico, propulsión y almacenamiento criogénico.",
+        "El Fluids Integrated Rack proporciona una plataforma óptica reconfigurable para estos experimentos."
+      ],
+      "limitations": [
+        "The page is a program and facility overview, not a fire-specific experiment.",
+        "Fluid-science results must be translated to each habitat architecture and suppression concept."
+      ],
+      "limitations_es": [
+        "La página es una descripción de programa e instalación, no un experimento específico de incendios.",
+        "Los resultados de fluidos deben adaptarse a cada arquitectura de hábitat y concepto de supresión."
+      ],
+      "experimental_table": null,
+      "data_readiness": "metadata"
+    }
+  ]
+}
