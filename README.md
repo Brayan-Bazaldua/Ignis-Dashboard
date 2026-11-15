@@ -33,10 +33,7 @@ Panel bilingüe (ES/EN) que resume, clasifica e interpreta la investigación de 
 
 | Nombre | Rol |
 |---|---|
-| Arrambide Escamilla, Vanessa Nohely | Documentadora |
-| Bazaldua Contreras, Brayan Alberto | Desarrollador / Programador (Backend y Frontend) |
-| Caballero Rivera, Jonathan David | Documentador |
-| Morales Ortiz, Mariana Elizabeth | Documentadora |
+| Bazaldua Contreras, Brayan Alberto | Desarrollador / Programador (Backend y Frontend |
 | Vera Reyes, Diego Alejandro | Desarrollador / Programador (Backend y Frontend) |
 
 ---
