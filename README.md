@@ -25,6 +25,8 @@ Panel bilingüe (ES/EN) que resume, clasifica e interpreta la investigación de 
 
 > IGNIS is a bilingual fire-safety intelligence dashboard for NASA PSI combustion research. It combines curated scientific synthesis, deterministic calculations, and traceable retrieval so the platform is useful even without an AI API key.
 
+![Dashboard](docs/screenshots/01-dashboard.png)
+
 ---
 
 ## Equipo de desarrollo
