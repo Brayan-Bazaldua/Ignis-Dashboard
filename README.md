@@ -17,7 +17,8 @@
 [![SymPy](https://img.shields.io/badge/SymPy-1.14-3B9C5F?logo=python&logoColor=white)](https://www.sympy.org/)
 [![scikit‑learn](https://img.shields.io/badge/scikit‑learn-1.9-FF6F00?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Git](https://img.shields.io/badge/Git-2.45.2-F05032?logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-✓-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+
 **De datos de combustión a decisiones de seguridad.**
 
 Panel bilingüe (ES/EN) que resume, clasifica e interpreta la investigación de combustión en microgravedad de NASA PSI para apoyar la seguridad contra incendios en la exploración espacial. Construido para **NASA Space Apps Challenge 2026**.
