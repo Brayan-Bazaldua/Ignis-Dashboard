@@ -1,5 +1,23 @@
 # IGNIS - Dashboard
+
 [![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.162.5-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Uvicorn](https://img.shields.io/badge/Uvicorn-0.54.0-2369A5?logo=uvicorn&logoColor=white)](https://www.uvicorn.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![pgvector](https://img.shields.io/badge/pgvector-0.7.1-4B8BBE?logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
+[![Docker](https://img.shields.io/badge/Docker-✓-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Cantera](https://img.shields.io/badge/Cantera-3.2-2E8B57?logo=python&logoColor=white)](https://cantera.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-2.5-013220?logo=numpy&logoColor=white)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-1.18-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org/)
+[![Pint](https://img.shields.io/badge/Pint-0.26-4B8BBE?logo=python&logoColor=white)](https://pint.readthedocs.io/)
+[![SymPy](https://img.shields.io/badge/SymPy-1.14-3B9C5F?logo=python&logoColor=white)](https://www.sympy.org/)
+[![scikit‑learn](https://img.shields.io/badge/scikit‑learn-1.9-FF6F00?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Git](https://img.shields.io/badge/Git-2.45.2-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-✓-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
 **De datos de combustión a decisiones de seguridad.**
 
 Panel bilingüe (ES/EN) que resume, clasifica e interpreta la investigación de combustión en microgravedad de NASA PSI para apoyar la seguridad contra incendios en la exploración espacial. Construido para **NASA Space Apps Challenge 2026**.
