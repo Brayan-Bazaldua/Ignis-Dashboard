@@ -411,6 +411,22 @@ Contexto:
             )
             response.raise_for_status()
             return response.json()["choices"][0]["message"]["content"].strip()
+        if settings.llm_provider == "neon" and settings.neon_api_key and settings.neon_base_url:
+            response = httpx.post(
+                f"{settings.neon_base_url.rstrip('/')}/v1/chat/completions",
+                headers={"Authorization": f"Bearer {settings.neon_api_key}"},
+                json={
+                    "model": settings.neon_model,
+                    "temperature": 0.2,
+                    "messages": [
+                        {"role": "system", "content": "You are IGNIS, a scientific fire-safety copilot."},
+                        {"role": "user", "content": prompt},
+                    ],
+                },
+                timeout=90,
+            )
+            response.raise_for_status()
+            return response.json()["choices"][0]["message"]["content"].strip()
         if settings.llm_provider == "ollama":
             response = httpx.post(
                 f"{settings.ollama_base_url.rstrip('/')}/api/chat",
